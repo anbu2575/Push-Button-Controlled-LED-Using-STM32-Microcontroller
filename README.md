@@ -198,6 +198,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+
+
+```
 ## Output
 <img width="576" height="581" alt="image" src="https://github.com/user-attachments/assets/1824232d-d27d-43da-b5ed-4351c987fd71" />
 
@@ -206,5 +209,6 @@ The push button was successfully interfaced with the STM32 microcontroller. The 
 
 
 ```
-Result:
+
+## Result:
 Thus the push button controlled LED by using STM32 Microcontroller is executed successfully
